@@ -4,7 +4,7 @@ Esta rama contiene el **paquete completo cifrado** para continuar el proyecto en
 
 ## Descargar desde GitHub
 
-1. Mantén seleccionada la rama **`entrega-caguamin`**.
+1. Mantén seleccionada la rama **`main`** del repositorio **`Listas`**.
 2. Presiona **Code → Download ZIP** y extrae esa descarga de GitHub.
 3. Conserva juntos `Carlos-Agent-Mac-Cifrado.zip`, `dependencias_descifrado/` y `herramientas/`.
 
@@ -35,4 +35,4 @@ El alcance del proyecto es **listas de asistencia primero; nómina después**. E
 
 Se probó en Linux la recuperación completa, igualdad del SHA-256 y manifiesto interior, y rechazo de contraseña incorrecta sin dejar datos parciales. Las dependencias del descifrado se resolvieron para ambas arquitecturas de Mac; la ejecución de macOS/Finder debe comprobarse en destino.
 
-La contraseña y los archivos descifrados deben permanecer fuera de este repositorio público. La salida predeterminada se crea fuera de él. La rama `main` del programa no se modifica con esta entrega.
+La contraseña y los archivos descifrados deben permanecer fuera de este repositorio público. La salida predeterminada se crea fuera de él. El repositorio original `Carlos-Agent` conserva su programa; este repositorio `Listas` contiene la entrega.
