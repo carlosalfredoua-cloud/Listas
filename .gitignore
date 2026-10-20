@@ -1,0 +1,9 @@
+.venv-descifrado/
+__pycache__/
+*.pyc
+Carlos-Agent-Recuperado-*/
+Carlos-Agent-Entrega/
+Carlos-Agent-Mac-Completo.zip
+.clave*
+clave*.txt
+password*.txt

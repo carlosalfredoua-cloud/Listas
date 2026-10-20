@@ -1,0 +1,27 @@
+[
+  {
+    "archivo": "pyzipper-0.3.6-py2.py3-none-any.whl",
+    "sha256": "6d097f465bfa47796b1494e12ea65d1478107d38e13bc56f6e58eedc4f6c1a87",
+    "fuente_metadatos": "https://pypi.org/pypi/pyzipper/0.3.6/json"
+  },
+  {
+    "archivo": "pyzipper-0.3.6-py2.py3-none-any.whl",
+    "sha256": "6d097f465bfa47796b1494e12ea65d1478107d38e13bc56f6e58eedc4f6c1a87",
+    "fuente_metadatos": "https://pypi.org/pypi/pyzipper/0.3.6/json"
+  },
+  {
+    "archivo": "pycryptodomex-3.23.0-cp37-abi3-macosx_10_9_universal2.whl",
+    "sha256": "06698f957fe1ab229a99ba2defeeae1c09af185baa909a31a5d1f9d42b1aaed6",
+    "fuente_metadatos": "https://pypi.org/pypi/pycryptodomex/3.23.0/json"
+  },
+  {
+    "archivo": "pycryptodomex-3.23.0-cp37-abi3-macosx_10_9_x86_64.whl",
+    "sha256": "b2c2537863eccef2d41061e82a881dcabb04944c5c06c5aa7110b577cc487545",
+    "fuente_metadatos": "https://pypi.org/pypi/pycryptodomex/3.23.0/json"
+  },
+  {
+    "archivo": "pycryptodomex-3.23.0-cp37-abi3-manylinux_2_17_x86_64.manylinux2014_x86_64.whl",
+    "sha256": "f489c4765093fb60e2edafdf223397bc716491b2b69fe74367b70d6999257a5c",
+    "fuente_metadatos": "https://pypi.org/pypi/pycryptodomex/3.23.0/json"
+  }
+]

@@ -1,0 +1,28 @@
+{
+  "algoritmo": "WinZip AES-256",
+  "contenido_exterior": "un solo ZIP interior con todos los archivos originales",
+  "sha256_payload": "d59d00d09430fafafe64d76564e40220227e68e509f180560fcb71edde7d1d61",
+  "sha256_cifrado": "3313353cf000ff6cb2923ac862e032dcfccb6a950f5968b773be3b3bf08c1e91",
+  "bytes": 84170040,
+  "clave_incorrecta_rechazada": true,
+  "recuperacion_hash_correcto": true,
+  "clave": "no incluida en repositorio",
+  "recuperacion_helper": "correcta",
+  "archivos_recuperados": 185,
+  "manifiesto_interior": "184 archivos coinciden",
+  "incorrecta_sin_salida_parcial": true,
+  "sistema_prueba": "Linux, Python3.12",
+  "macOS": "pendiente de ejecutar en destino",
+  "resolucion_dependencias_Mac": [
+    {
+      "plataforma": "macosx_11_0_arm64",
+      "dependencias_descifrado_resueltas": true,
+      "binarios_macos_ejecutados": false
+    },
+    {
+      "plataforma": "macosx_10_9_x86_64",
+      "dependencias_descifrado_resueltas": true,
+      "binarios_macos_ejecutados": false
+    }
+  ]
+}
